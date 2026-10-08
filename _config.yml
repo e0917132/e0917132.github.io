@@ -30,7 +30,7 @@ language: en
 email: "e0917132@gmail.com"
 # The site's address, without a trailing slash. Also used for feed/sitemap/SEO links and
 # shown in Terminal (neofetch) and the Linux-commands wallpaper.
-url: "https://ellieJ.github.io"
+url: "https://elliej.github.io"
 # Sub-path when the site does not live at the domain root, e.g. "/blog" for
 # username.github.io/blog. Leave "" for username.github.io or a custom domain.
 baseurl: ""

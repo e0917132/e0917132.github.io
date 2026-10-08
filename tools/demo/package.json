@@ -1,0 +1,13 @@
+{
+  "name": "ephemeris-demo",
+  "private": true,
+  "description": "Records the README demo GIF and runs browser smoke tests for Ephemeris",
+  "type": "module",
+  "scripts": {
+    "record": "node record.mjs",
+    "smoke": "bash smoke.sh"
+  },
+  "devDependencies": {
+    "playwright-core": "^1.63.0"
+  }
+}

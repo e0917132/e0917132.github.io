@@ -5,20 +5,20 @@
 #   ko     extra search words (not shown) · icon  symbol id from _includes/icons.html
 #   color  the category's color in Calendar
 
-- slug: notes
-  name: Notes
-  short: Notes
-  en: Notes
-  ko: 노트
-  icon: note
+- slug: AI
+  name: AI
+  short: AI
+  en: AI
+  ko: 인공지능
+  icon: cpu
   color: "#a2845e"
 
-- slug: dev
-  name: Development
-  short: Dev
-  en: Development
-  ko: 개발
-  icon: cpu
+- slug: daily
+  name: daily
+  short: daily
+  en: daily
+  ko: 일상
+  icon: person
   color: "#ff9500"
 
 - slug: web

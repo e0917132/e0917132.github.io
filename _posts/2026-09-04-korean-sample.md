@@ -1,7 +1,7 @@
 ---
 layout: minimal_post
 title: "한국어 글 예시"
-categories: [notes]
+categories: [documentation]
 date: 2026-09-04 09:00:00 +0900
 description: "화면 문구는 영어지만 글은 어떤 언어로 써도 됩니다. 한국어 글이 어떻게 보이는지 보여 주는 예시입니다."
 ---

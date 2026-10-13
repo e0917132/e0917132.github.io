@@ -3,4 +3,4 @@ layout: about
 title: About
 ---
 
-{%- comment -%} 이 본문이 About 창의 소개 글이 된다. 자유롭게 고쳐 쓰면 된다. {%- endcomment -%}
+{%- comment -%}안녕하세요. AI를 공부하고 일상을 기록하는 Ellie 입니다.{%- endcomment -%}

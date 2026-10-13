@@ -1,7 +1,7 @@
 ---
 layout: minimal_post
 title: "Welcome to Ephemeris"
-categories: [notes]
+categories: [documentation]
 date: 2026-09-01 09:00:00 +0900
 description: "A Jekyll blog that looks and behaves like a macOS desktop. Here is a quick tour of what you can click."
 ---

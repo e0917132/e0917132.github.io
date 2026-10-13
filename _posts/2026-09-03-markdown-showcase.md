@@ -1,7 +1,7 @@
 ---
 layout: minimal_post
 title: "Markdown showcase"
-categories: [web]
+categories: [documentation]
 date: 2026-09-03 09:00:00 +0900
 description: "Headings, code, tables, quotes, lists and images, as they look inside a document window."
 ---

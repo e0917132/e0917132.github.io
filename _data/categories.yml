@@ -21,12 +21,12 @@
   icon: person
   color: "#ff9500"
 
-- slug: web
-  name: Web
-  short: Web
-  en: Web
-  ko: 웹
-  icon: globe
+- slug: Computer Languages
+  name: Computer Languages
+  short: Computer Languages
+  en: Computer Languages
+  ko: 컴퓨터 언어 전반
+  icon: cpu
   color: "#1badf8"
 
 - slug: documentation

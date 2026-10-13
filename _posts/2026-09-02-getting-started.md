@@ -1,7 +1,7 @@
 ---
 layout: minimal_post
 title: "Getting started: your blog in five minutes"
-categories: [dev]
+categories: [documentation]
 date: 2026-09-02 09:00:00 +0900
 description: "Create your copy from the template, edit one config file, turn on GitHub Pages and write your first post."
 ---

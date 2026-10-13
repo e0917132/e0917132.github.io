@@ -20,11 +20,11 @@ title: "Ellie's Desktop"
 # Optional. Added to the home page's tab title ("title - subtitle")
 subtitle: "AI/일상 블로그"
 # Description for search engines and link previews (a post's own description wins)
-description: A blog that looks and works like a macOS desktop
+description: 맥 데스크톱처럼 생긴 나의 AI·일상 블로그
 # Your name: lock screen, About This Mac, System Settings, Mail, © line
-author: Your Name
+author: Eliie
 # Language of the page (<html lang>)
-language: en
+language: ko
 # Where the Mail app sends visitors' messages (opens their mail app with this address).
 # Leave it empty and Mail still opens, but the Send button stays off.
 email: "e0917132@gmail.com"
@@ -106,7 +106,7 @@ wallpaper_tone: dark
 desktop:
   # Terminal: the prompt (username@hostname), whoami and the home folder /Users/<username>.
   # Also the user in the Linux-commands wallpaper.
-  username: guest
+  username: ellie
   # Terminal: the computer name in the prompt, hostname and uname -a
   hostname: Ephemeris
   # Wi-Fi network shown as connected (menu bar, Control Center, System Settings).

@@ -28,3 +28,11 @@
   ko: 웹
   icon: globe
   color: "#1badf8"
+
+- slug: documentation
+  name: documentation
+  short: documentation
+  en: documentation
+  ko: 블로그설명서
+  icon: globe
+  color: "#1badf8"

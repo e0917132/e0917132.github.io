@@ -2501,6 +2501,12 @@ html[data-theme="dark"] .obsidian {
     li::marker {
       color: var(--notes-yellow);
     }
+
+    a {
+      color: #0a84ff;
+      text-decoration: underline;
+      text-underline-offset: 3px;
+    }
   }
 
   &__editor {

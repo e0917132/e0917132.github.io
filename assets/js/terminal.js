@@ -209,7 +209,7 @@ const COMMANDS = {
         const s = SITE;
         const fill = (t) => String(t).replace('{posts}', s.posts ?? '').replace('{latest}', s.latest ?? '');
         print(`<b>${esc(s.about?.title || 'about me')}</b>`);
-        for (const b of s.about?.bullets || []) print(`  • ${esc(fill(b))}`);
+        for (const b of s.about?.bullets || []) print(`  • ${esc(fill(b).replace(/\[([^\]]+)\]\([^)]+\)/g, '$1'))}`);
         return;
       }
       if (node.post) {

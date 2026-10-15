@@ -20,6 +20,9 @@ const ABOUT = 'about-me';
 
 const esc = (s) =>
   String(s ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[c]);
+// [텍스트](https://...) 만 링크로 바꾸고, 나머지는 그대로 이스케이프한다
+const linkify = (s) =>
+  esc(s).replace(/\[([^\]]+)\]\((https?:\/\/[^\s)]+)\)/g, '<a href="$2" target="_blank" rel="noopener">$1</a>');
 
 let win = null;
 let dockButton = null;
@@ -172,7 +175,7 @@ function renderPage({ focus = false } = {}) {
       <p class="notes__date">${ICON.lock} Locked note · written by the site owner</p>
       <article class="notes__doc" lang="ko">
         <h1 class="notes__doc-title">${esc(a.title)}</h1>
-        <ul class="notes__bullets">${a.bullets.map((b) => `<li>${esc(b)}</li>`).join('')}</ul>
+        <ul class="notes__bullets">${a.bullets.map((b) => `<li>${linkify(b)}</li>`).join('')}</ul>
       </article>`;
     return;
   }

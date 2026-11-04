@@ -25,5 +25,5 @@ SOFTWARE.
 
 The MIT License above covers the source code of this theme (HTML, CSS/Sass,
 JavaScript, Liquid templates and tools). It does not cover the third-party
-fonts, images, trademarks and services listed in NOTICE.md, which keep their
+fonts, images, trademarks and services listed in docs/NOTICE.md, which keep their
 own licenses and terms.

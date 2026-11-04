@@ -141,6 +141,6 @@ bundle exec jekyll serve      # http://localhost:4000
 
 ## 크레딧과 라이선스
 
-테마 코드는 [MIT 라이선스](../../LICENSE)입니다. 글꼴 · 다른 회사의 그림 · 외부 서비스는 각자의 조건을 따릅니다. [NOTICE.md](../../NOTICE.md) 를 보세요.
+테마 코드는 [MIT 라이선스](../../LICENSE)입니다. 글꼴 · 다른 회사의 그림 · 외부 서비스는 각자의 조건을 따릅니다. [NOTICE.md](../NOTICE.md) 를 보세요.
 
 Apple 과 관련 없는 개인 팬 프로젝트입니다. Apple · macOS · Finder 등의 이름과 로고는 Apple Inc. 의 상표입니다. 함께 들어 있는 맥 배경화면과 아이콘은 Apple 과 각 소유자의 것이라, 개인 블로그에는 괜찮지만 상업적으로 쓰려면 직접 만든 그림으로 바꿔 주세요.

@@ -19,6 +19,8 @@ AI와 프로그래밍을 공부하며 배운 내용과 일상을 기록하는 �
 | 자기소개 | [`_data/about_me.yml`](_data/about_me.yml) |
 | 카테고리 | [`_data/categories.yml`](_data/categories.yml) |
 | 프로젝트·음악 | [`_data/projects.yml`](_data/projects.yml) · [`_data/music.yml`](_data/music.yml) |
+| 소개 페이지 | [`pages/about.md`](pages/about.md) |
+| 기타 페이지·검색 데이터 | [`pages/`](pages/) |
 | 이미지 | [`assets/images/`](assets/images/) |
 
 ### 로컬 실행
@@ -45,7 +47,7 @@ macOS 데스크톱 형태의 디자인과 Dock, Finder, Spotlight, 창 관리 �
 
 ### 저작권과 외부 리소스
 
-테마 코드의 저작권과 MIT 라이선스는 [LICENSE](LICENSE), 이미지·글꼴·외부 라이브러리 등의 출처와 이용 조건은 [NOTICE.md](NOTICE.md)를 참고하세요.
+테마 코드의 저작권과 MIT 라이선스는 [LICENSE](LICENSE), 이미지·글꼴·외부 라이브러리 등의 출처와 이용 조건은 [NOTICE.md](docs/NOTICE.md)를 참고하세요.
 
 ### 테마 사용 설명서
 

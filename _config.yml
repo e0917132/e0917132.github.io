@@ -68,9 +68,7 @@ exclude:
   - node_modules
   - vendor
   - README.md
-  - README.ko.md
-  - NOTICE.md
-  - docs # README images and the demo GIF
+  - docs # theme documentation, notices, README images and the demo GIF
 
 # ---------------------------------------------------------------
 # Wallpaper — the default desktop and lock-screen background

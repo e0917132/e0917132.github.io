@@ -141,6 +141,6 @@ The latest Chrome, Edge, Safari and Firefox on desktop and mobile. It uses CSS `
 
 ## Credits and license
 
-The theme's code is released under the [MIT License](../../LICENSE). Fonts, third-party images and services keep their own terms. See [NOTICE.md](../../NOTICE.md).
+The theme's code is released under the [MIT License](../../LICENSE). Fonts, third-party images and services keep their own terms. See [NOTICE.md](../NOTICE.md).
 
 This is an independent fan project, **not affiliated with Apple Inc.** Apple, macOS, Finder and related names and logos are trademarks of Apple Inc. The bundled macOS wallpaper and icons belong to Apple and their respective owners. They're fine for a personal blog, but replace them with your own artwork for any commercial use.

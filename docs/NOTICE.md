@@ -6,7 +6,7 @@ Mission Control and other Apple product names are trademarks of Apple Inc.,
 registered in the U.S. and other countries. Other product names and logos are the
 property of their respective owners.
 
-The theme's own code is MIT-licensed (see `LICENSE`). The items below are
+The theme's own code is MIT-licensed (see [LICENSE](../LICENSE)). The items below are
 **not** covered by that license.
 
 ## Images that belong to others

@@ -7,7 +7,7 @@
 
 [라이브 데모](https://wlswo.me) · [English](README.md)
 
-<img src="docs/demo.gif" alt="잠금 해제, Dock 확대, Finder 에서 글 열기, Spotlight 검색, 시스템 설정에서 다크 모드로 바꾸기" width="880">
+<img src="../demo.gif" alt="잠금 해제, Dock 확대, Finder 에서 글 열기, Spotlight 검색, 시스템 설정에서 다크 모드로 바꾸기" width="880">
 
 </div>
 
@@ -26,8 +26,8 @@
 
 <table>
 <tr>
-<td><img src="docs/screenshot-light.png" alt="미리보기 창에 열린 글, 라이트 모드"></td>
-<td><img src="docs/screenshot-dark.png" alt="글 목록을 보여 주는 Finder, 다크 모드"></td>
+<td><img src="../screenshot-light.png" alt="미리보기 창에 열린 글, 라이트 모드"></td>
+<td><img src="../screenshot-dark.png" alt="글 목록을 보여 주는 Finder, 다크 모드"></td>
 </tr>
 </table>
 
@@ -141,6 +141,6 @@ bundle exec jekyll serve      # http://localhost:4000
 
 ## 크레딧과 라이선스
 
-테마 코드는 [MIT 라이선스](LICENSE)입니다. 글꼴 · 다른 회사의 그림 · 외부 서비스는 각자의 조건을 따릅니다. [NOTICE.md](NOTICE.md) 를 보세요.
+테마 코드는 [MIT 라이선스](../../LICENSE)입니다. 글꼴 · 다른 회사의 그림 · 외부 서비스는 각자의 조건을 따릅니다. [NOTICE.md](../../NOTICE.md) 를 보세요.
 
 Apple 과 관련 없는 개인 팬 프로젝트입니다. Apple · macOS · Finder 등의 이름과 로고는 Apple Inc. 의 상표입니다. 함께 들어 있는 맥 배경화면과 아이콘은 Apple 과 각 소유자의 것이라, 개인 블로그에는 괜찮지만 상업적으로 쓰려면 직접 만든 그림으로 바꿔 주세요.
